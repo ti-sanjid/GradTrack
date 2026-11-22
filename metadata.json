@@ -1,0 +1,6 @@
+{
+  "name": "GradTrack — PhD Application Tracker",
+  "description": "Interactive PhD application workspace for organizing university requirements, faculty outreach, deadlines, documents, and funding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
