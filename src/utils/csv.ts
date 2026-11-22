@@ -19,7 +19,7 @@ import {
   WAIVER_OPTIONS,
 } from '../types/application';
 
-export const ORIGINAL_CSV_URL = '/assets/aistudio/Untitled_spreadsheet_0d12dc02';
+export const ORIGINAL_CSV_URL = `${import.meta.env.BASE_URL}assets/aistudio/Untitled_spreadsheet_0d12dc02`;
 
 /**
  * RFC-4180 compliant CSV parser supporting quoted fields, embedded commas,
